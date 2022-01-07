@@ -1,0 +1,31 @@
+{
+  "name": "tree-shaking-typescript",
+  "version": "1.0.0",
+  "description": "A lite version tree shaking | Javascript optimization with typescript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docongminh/tree-shaking-typescript.git"
+  },
+  "keywords": [
+    "tree-shaking"
+  ],
+  "author": "@minhdocs",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/docongminh/tree-shaking-typescript/issues"
+  },
+  "homepage": "https://github.com/docongminh/tree-shaking-typescript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.9.0",
+    "@typescript-eslint/parser": "^5.9.0",
+    "eslint": "^7.32.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.25.4",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.2.0"
+  }
+}
